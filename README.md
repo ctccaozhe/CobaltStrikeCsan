@@ -1,0 +1,2 @@
+# CobaltStrikeCsan
+批量CobaltStrike服务器识别小脚本
